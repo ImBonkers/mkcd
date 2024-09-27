@@ -1,0 +1,6 @@
+mkcd() {
+    if [ ! -d "$1" ]; then
+        mkdir -p "$1"
+    fi
+    cd "$1" || { echo "Failed to change to directory: $1"; return 1; }
+}
