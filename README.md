@@ -1,7 +1,7 @@
 # mkcd
 I am tired of having to write mkdir and cd in two steps...
 
-Add the contents of the main file into ~/.bashrc or whatever file is run at the start of every new temrinal session
+Add the contents of the main file into ~/.bashrc or whatever file is run at the start of every new terminal session
 
 Example:
 
