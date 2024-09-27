@@ -6,7 +6,7 @@ Add the contents of the main file into ~/.bashrc or whatever file is run at the 
 Example:
 
 in ~/.bashrc add:
-
+```
 --- bashrc stuff ---
 
 mkcd() {
@@ -17,3 +17,4 @@ mkcd() {
 }
 
 --- more bashrc stuff ---
+```
